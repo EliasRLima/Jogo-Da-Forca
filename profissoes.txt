@@ -1,0 +1,13 @@
+PROFISSOES
+professor
+medico
+programador
+cozinheiro
+nutricionista
+administrador
+motorista
+diarista
+auxiliar
+analista
+engenheiro
+designer

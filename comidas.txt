@@ -1,0 +1,13 @@
+COMIDAS
+pastel
+feijoada
+farofa
+vinagrete
+sopa
+pudim
+maionese
+tapioca
+beiju
+cuscuz
+estrogonofe
+coxinha

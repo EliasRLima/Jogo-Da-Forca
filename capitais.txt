@@ -1,0 +1,13 @@
+CAPITAIS
+manaus
+palmas
+macapa
+recife
+maceio
+salvador
+teresina
+aracaju
+goiania
+cuiaba
+brasilia
+vitoria

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1570330160 source:c:\users\svtre\desktop\jogo_da_forca\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1570303531 source:c:\users\svtre\desktop\jogo_da_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1570329796 c:\users\svtre\desktop\jogo_da_forca\header.h
+
+1574276025 source:c:\users\elias\desktop\jogo_da_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"header.h"
+
+1574184104 c:\users\elias\desktop\jogo_da_forca\header.h
+
+1574777684 source:c:\users\elias\desktop\jogo_da_forca\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"header.h"
+
+1572385552 source:c:\users\01aluno\desktop\jogo_da_forca\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1572385474 c:\users\01aluno\desktop\jogo_da_forca\header.h
+
+1572386560 source:c:\users\01aluno\desktop\jogo_da_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"header.h"
+
+1571867338 source:c:\users\elias\onedrive\Área de trabalho\jogo_da_forca\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<math.h>
+	"header.h"
+
+1571858982 c:\users\elias\onedrive\Área de trabalho\jogo_da_forca\header.h
+
+1571868558 source:c:\users\elias\onedrive\Área de trabalho\jogo_da_forca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"header.h"
+
